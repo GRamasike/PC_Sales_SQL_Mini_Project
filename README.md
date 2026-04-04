@@ -104,4 +104,4 @@ With a solid academic foundation in **Database Management, Mathematics for Compu
 
 This project is part of a growing portfolio designed to demonstrate my technical capabilities in database design, querying, and data analysis.
 
-📫 Feel free to connect with me on (https://www.linkedin.com/in/gomolemo-ramasike/)(#) or explore my other projects here on GitHub!
+📫 Feel free to connect with me on (https://www.linkedin.com/in/gomolemo-ramasike/) or explore my other projects here on GitHub!
