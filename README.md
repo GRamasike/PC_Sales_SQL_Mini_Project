@@ -1,7 +1,4 @@
 # 💻 PC Sales SQL Project
-
-![SQL](https://img.shields.io/badge/SQL-Server-blue?style=flat&logo=microsoftsqlserver) ![Status](https://img.shields.io/badge/Status-In%20Progress-orange) ![Domain](https://img.shields.io/badge/Domain-Retail%20Sales-purple)
-
 ---
 
 ## 📌 Project Overview
